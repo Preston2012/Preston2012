@@ -6,7 +6,7 @@ I build AI products. Full-stack. Solo.
 
 ### Now
 
-**[Demiurge](https://github.com/Preston2012/demiurge)** — Adaptive memory for AI agents. Quality-gated, refusal-first. 5-layer pipeline: capture, store, retrieve, inject, learn. Trust branching rejects bad data before it enters the system. TypeScript, SQLite, ONNX embeddings. Ships as MCP server + REST API on a $4/mo ARM VPS.
+**[Demiurge](https://github.com/Preston2012/demiurge)** — Adaptive memory for AI agents. Quality-gated, refusal-first. 5-layer pipeline: capture, store, retrieve, inject, learn. Trust branching rejects bad data before it enters the system. 274 tests, zero failures. Architecture through V1 in under 24 hours. TypeScript, SQLite, ONNX embeddings. Ships as MCP server + REST API on a $4/mo ARM VPS.
 
 **[Baseline](https://baseline.marketing)** — Political intelligence platform. Tracks 106+ public figures across 4 AI providers. Consensus scoring detects bias no single model catches. 28 Flutter screens, 22 Supabase Edge Functions, 5,400+ analyzed statements.
 
