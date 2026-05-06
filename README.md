@@ -12,7 +12,7 @@ The full circle:
   should work    feels like    means at scale
 ```
 
-Open-source the engine. Build the consumer experience on top. Write the governance architecture the technology demands. Three layers, one thesis: **personalization belongs to the person.**
+Open-source the engine, build the consumer product on top, write the governance architecture this technology demands. One thesis across three layers: **personalization belongs to the person.**
 
 ---
 
@@ -26,13 +26,13 @@ TypeScript, SQLite + sqlite-vec + FTS5, BGE-small ONNX embeddings, SQLCipher enc
 
 Public benchmarks across 13 evaluations: LOCOMO, BEAM, LongMemEval, CloneMem, MemoryAgentBench, plus an in-house safety suite (FRAME-INJECT, FRAME-SYBIL, FRAME-AUDIT, VAULT) and product-correctness suite (attribution, paraphrase, ECE/Brier, recall@K, stale-memory). Live scorecard in the [demi repo README](https://github.com/Preston2012/demi).
 
-### MyKonos. The consumer companion.
+### MyKonos
 
-Personal AI companion built on Demiurge. BYOK multi-model routing. Memory-active visual primitive: the UI lights up when MyKonos pulls something it learned about you, instead of hiding the retrieval behind a black box.
+Personal AI companion built on Demiurge, with BYOK multi-model routing. The memory-active visual primitive lights up the UI when MyKonos pulls something it learned about you, instead of hiding the retrieval behind a black box.
 
 Mobile-first. Live on my phone. First beta tester is reading the Ouroboros draft on it right now.
 
-**Status:** shipping, proprietary, reference consumer implementation of Memory Sovereignty Principles (below). The Demiurge engine is open; MyKonos is the answer to "what does this look like as a product." Different question, different surface.
+**Status:** shipping, proprietary. The reference consumer implementation of Memory Sovereignty Principles (below). The engine is open. The product is what it looks like when you actually use it.
 
 ### [Ouroboros](https://github.com/Preston2012/ouroboros). Governance architecture for the AI era.
 
@@ -46,7 +46,7 @@ This isn't a side project. It's the reason the engine and the companion exist. M
 
 ## Methodology
 
-### [AI Council](https://github.com/Preston2012/ai-council). Multi-model orchestration.
+### [AI Council](https://github.com/Preston2012/ai-council)
 
 Run the same task across Claude, GPT, Gemini, Grok. Reconcile in one pass. Used across every project on this page. 500+ build sessions. 390+ documented rules.
 
@@ -76,4 +76,4 @@ TypeScript, Dart/Flutter, Python, Supabase/PostgreSQL, SQLite + sqlite-vec, ONNX
 
 ---
 
-*Hiring, building memory infrastructure, or thinking about how AI should be governed at scale? Reach out.*
+*If you are hiring, building memory infrastructure, or working on AI governance at scale, get in touch.*
