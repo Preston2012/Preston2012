@@ -72,7 +72,7 @@ TypeScript, Dart/Flutter, Python, Supabase/PostgreSQL, SQLite + sqlite-vec, ONNX
 
 ## Contact
 
-[baseline.marketing](https://baseline.marketing) · [preston@baseline.marketing](mailto:preston@baseline.marketing) · [LinkedIn](https://linkedin.com/in/prestonwinters)
+[baseline.marketing](https://baseline.marketing) · [winterscode.com](https://winterscode.com) · [preston@winterscode.com](mailto:preston@winterscode.com) · [LinkedIn](https://linkedin.com/in/prestonwinters)
 
 ---
 
