@@ -1,5 +1,12 @@
 # Preston Winters
 
+[![Open to work](https://img.shields.io/badge/Open_to_work-Founding_%2F_Staff_IC-4dd8a8?logo=linkedin&logoColor=white)](mailto:preston@winterscode.com)
+[![Based in Bandon, OR](https://img.shields.io/badge/Based_in-Bandon%2C_OR-c8804a)](https://winterscode.com)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/Preston2012?tab=repositories&q=&language=typescript)
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)](https://github.com/Preston2012?tab=repositories&q=&language=dart)
+[![Astro](https://img.shields.io/badge/-Astro-BC52EE?logo=astro&logoColor=white)](https://github.com/Preston2012?tab=repositories&q=&language=astro)
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://github.com/Preston2012?tab=repositories&q=&language=python)
+
 <p align="center">
   <img src="preston-headshot.jpg" alt="Preston Winters" width="240" />
   &nbsp;&nbsp;
@@ -81,5 +88,7 @@ TypeScript, Dart/Flutter, Python, Supabase/PostgreSQL, SQLite + sqlite-vec, ONNX
 [baseline.marketing](https://baseline.marketing) · [winterscode.com](https://winterscode.com) · [preston@winterscode.com](mailto:preston@winterscode.com) · [LinkedIn](https://linkedin.com/in/prestonwinters)
 
 ---
+
+**Open to founding-engineer, staff, and principal IC roles** in AI infrastructure, agent systems, or memory. Currently independent through [Winters Code](https://winterscode.com).
 
 *If you are hiring, building memory infrastructure, or working on AI governance at scale, get in touch.*
