@@ -1,6 +1,12 @@
 # Preston Winters
 
-Solo builder. AI memory, consumer products, governance architecture.
+<p align="center">
+  <img src="preston-headshot.jpg" alt="Preston Winters" width="240" />
+  &nbsp;&nbsp;
+  <img src="preston-lighthouse.jpg" alt="Preston Winters with daughter at the Coquille River Lighthouse, Bandon Oregon" width="240" />
+</p>
+
+Solo builder in Bandon, Oregon. AI memory, consumer products, governance architecture.
 
 The full circle:
 
