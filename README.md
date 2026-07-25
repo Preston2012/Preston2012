@@ -1,6 +1,6 @@
 # Preston Winters
 
-[![Open to work](https://img.shields.io/badge/Open_to_work-Founding_%2F_Staff_IC-4dd8a8?logo=linkedin&logoColor=white)](mailto:preston@winterscode.com)
+[![Open to collaboration](https://img.shields.io/badge/Open_to-Collaboration_%2F_Technical_Partnerships-4dd8a8)](mailto:preston@winterscode.com)
 [![Based in Bandon, OR](https://img.shields.io/badge/Based_in-Bandon%2C_OR-c8804a)](https://winterscode.com)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/Preston2012?tab=repositories&q=&language=typescript)
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)](https://github.com/Preston2012?tab=repositories&q=&language=dart)
@@ -37,7 +37,7 @@ Refusal-first adaptive memory for AI agents. Quality-gated at the write boundary
 
 TypeScript, SQLite + sqlite-vec + FTS5, BGE-small ONNX embeddings, SQLCipher encryption-at-rest. Ships as MCP server + REST API. Runs on a $6/mo ARM VPS.
 
-Public benchmarks across 13 evaluations: LOCOMO, BEAM, LongMemEval, CloneMem, MemoryAgentBench, plus an in-house safety suite (FRAME-INJECT, FRAME-SYBIL, FRAME-AUDIT, VAULT) and product-correctness suite (attribution, paraphrase, ECE/Brier, recall@K, stale-memory). Live scorecard in the [demi repo README](https://github.com/Preston2012/demi).
+Public benchmarks across 14 evaluations: LOCOMO, BEAM, LongMemEval, CloneMem, MemoryAgentBench, plus an in-house safety suite (FRAME-INJECT, FRAME-SYBIL, FRAME-AUDIT, VAULT) and product-correctness suite (attribution, paraphrase, ECE/Brier, recall@K, stale-memory). Live scorecard in the [demi repo README](https://github.com/Preston2012/demi).
 
 ### MyKonos
 
@@ -61,7 +61,7 @@ This isn't a side project. It's the reason the engine and the companion exist. M
 
 ### [AI Council](https://github.com/Preston2012/ai-council)
 
-Run the same task across Claude, GPT, Gemini, Grok. Reconcile in one pass. Used across every project on this page. 500+ build sessions. 390+ documented rules.
+Run the same task across Claude, GPT, Gemini, Grok, then reconcile in one pass. Used heavily through the Demiurge build to settle architecture calls no single model got right alone. The durable output is an operating rule library that is still live and still growing: 500+ build sessions, 501 documented rules, each one promoted only after it clears a dedup and specificity gate.
 
 ### Memory Sovereignty Principles. Coming next.
 
@@ -89,6 +89,6 @@ TypeScript, Dart/Flutter, Python, Supabase/PostgreSQL, SQLite + sqlite-vec, ONNX
 
 ---
 
-**Open to founding-engineer, staff, and principal IC roles** in AI infrastructure, agent systems, or memory. Currently independent through [Winters Code](https://winterscode.com).
+**Open to collaboration and technical partnerships** in AI memory, agent systems, and governance. Building independently through [Winters Code](https://winterscode.com) on the Oregon coast.
 
-*If you are hiring, building memory infrastructure, or working on AI governance at scale, get in touch.*
+*If you are building memory infrastructure, working on AI governance at scale, or want to put any of this to work, get in touch.*
