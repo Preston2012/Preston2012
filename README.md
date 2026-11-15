@@ -49,7 +49,7 @@ Mobile-first. Proprietary. In active development, not yet open for general use. 
 
 Governance that starts at the size of one community, grows only by consent, uses AI as a tool, and keeps humans in charge of every real decision. It gives everyone a floor to stand on and repairs itself on a schedule instead of rotting.
 
-v2.6 is public, with every amendment logged and its reason given. The [Objection Register](https://github.com/Preston2012/ouroboros/blob/main/REGISTER.md) is open: every objection gets a permanent numbered entry, whether it wins or not, including the ones I cannot answer yet.
+v2.7 is public (amended November 15, 2026), with every amendment logged and its reason given. The [Objection Register](https://github.com/Preston2012/ouroboros/blob/main/REGISTER.md) is open: every objection gets a permanent numbered entry, whether it wins or not, including the ones I cannot answer yet.
 
 This isn't a side project. It's the reason the engine and the companion exist. Memory, personalization, and AI mediation at scale require governance. Someone has to write the proposal.
 
