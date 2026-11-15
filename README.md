@@ -13,7 +13,7 @@
   <img src="preston-lighthouse.jpg" alt="Preston Winters with daughter at the Coquille River Lighthouse, Bandon Oregon" width="240" />
 </p>
 
-Solo builder in Bandon, Oregon. AI memory, consumer products, governance architecture.
+Solo builder in Bandon, Oregon. AI memory, consumer products, governance architecture, and client web work through [Winters Code](https://winterscode.com).
 
 The full circle:
 
@@ -43,45 +43,53 @@ Public benchmarks across 14 evaluations: LOCOMO, BEAM, LongMemEval, CloneMem, Me
 
 Personal AI companion built on Demiurge, with BYOK multi-model routing. The memory-active visual primitive lights up the UI when MyKonos pulls something it learned about you, instead of hiding the retrieval behind a black box.
 
-Mobile-first. Live on my phone. First beta tester is reading the Ouroboros draft on it right now.
+Mobile-first. Proprietary. In active development, not yet open for general use. The reference consumer implementation of Memory Sovereignty Principles (below). The engine is open. The product is what it looks like when you actually use it.
 
-**Status:** shipping, proprietary. The reference consumer implementation of Memory Sovereignty Principles (below). The engine is open. The product is what it looks like when you actually use it.
+### [Ouroboros](https://github.com/Preston2012/ouroboros). Self-auditing governance.
 
-### [Ouroboros](https://github.com/Preston2012/ouroboros). Governance architecture for the AI era.
+Governance that starts at the size of one community, grows only by consent, uses AI as a tool, and keeps humans in charge of every real decision. It gives everyone a floor to stand on and repairs itself on a schedule instead of rotting.
 
-A serious draft proposal for planetary-scale governance designed to compound on behalf of humanity rather than against it. Four layers: personal AI companion, AI representatives trained on each political unit's corpus, a thirteen-member adversarial AI oversight body, and direct human ratification on decisions of consequence.
-
-Currently with trusted readers for v0.7 critique. Targeted release to SSRN, philpapers, Substack. Not social media.
+v2.7 is public (amended November 15, 2026), with every amendment logged and its reason given. The [Objection Register](https://github.com/Preston2012/ouroboros/blob/main/REGISTER.md) is open: every objection gets a permanent numbered entry, whether it wins or not, including the ones I cannot answer yet.
 
 This isn't a side project. It's the reason the engine and the companion exist. Memory, personalization, and AI mediation at scale require governance. Someone has to write the proposal.
 
----
+### Chere'
 
-## Methodology
-
-### [AI Council](https://github.com/Preston2012/ai-council)
-
-Run the same task across Claude, GPT, Gemini, Grok, then reconcile in one pass. Used heavily through the Demiurge build to settle architecture calls no single model got right alone. The durable output is an operating rule library that is still live and still growing: 500+ build sessions, 501 documented rules, each one promoted only after it clears a dedup and specificity gate.
-
-### Memory Sovereignty Principles. Coming next.
-
-A spec doc + benchmark harness for AI memory providers. Ten principles covering local-first, portable export, hard delete with verification, encryption with user-held keys, provenance disclosure, refusal-first injection, no cross-tenant leakage, right to amendment, no silent retraining, open audit log. Scorecard against seven providers including Demiurge.
-
-Drafting now. Will land at [Preston2012/memory-sovereignty-principles](https://github.com/Preston2012/memory-sovereignty-principles).
+Field-service platform: unified inbox, scheduling, and billing in one Flutter app, with a dedicated build for [SeaBreeze](https://seabreeze.llc). Formerly Work-Flow.
 
 ---
 
-## Shipped products
+## How I build
 
-**StainSlayer** ([Google Play](https://play.google.com/store/apps/details?id=com.mycompany.stainslayerai), [App Store](https://apps.apple.com/us/app/stainslayer-ai/id6757208835)). AI-powered stain removal guidance. Photo + fabric type, returns step-by-step removal instructions tailored to the surface. Standard, Eco, Emergency, and Fun modes. Multi-language responses.
+### No model works solo
+
+Every build runs through checks and balances across models. Claude builds. GPT, Gemini, and Grok review, challenge, and red-team the work, and product pull requests get an outside automated review before they merge. Disagreements are reconciled, not averaged. What each round teaches goes into an operating rule library, and a rule is promoted only after it clears a dedup and specificity gate.
+
+[AI Council](https://github.com/Preston2012/ai-council) was the first public version of this method. It is archived; the method now runs as a standing review fleet.
+
+### Memory Sovereignty Principles. In draft.
+
+A spec with executable contracts for AI memory providers. Ten principles covering local-first, portable export, hard delete with verification, encryption with user-held keys, provenance disclosure, refusal-first injection, no cross-tenant leakage, right to amendment, no silent retraining, open audit log.
+
+Drafting v1.0. Eight of the ten principles have a runnable contract so far. No provider has been scored yet; the scorecard comes after the contracts.
+
+---
+
+## Winters Code
+
+Web studio on the Oregon coast. Astro and Tailwind on Cloudflare, built to a quality floor: responsive from 320 to 1920 px, per-device modern image formats, and accessibility checked before launch. Eight client sites live. See the [work](https://winterscode.com/work).
+
+## Products
 
 **[Baseline](https://baseline.marketing)** ([showcase](https://github.com/Preston2012/baseline-showcase)). Political intelligence platform. Tracks 100+ public figures across 4 AI providers. Consensus scoring detects bias no single model catches. 28 Flutter screens, 22 Supabase Edge Functions, 5,400+ analyzed statements.
+
+**StainSlayer.** AI stain removal guidance: photo plus fabric type in, step-by-step removal instructions out, in Standard, Eco, Emergency, and Fun modes. Published on Google Play and the App Store, retired in November 2026.
 
 ---
 
 ## Stack
 
-TypeScript, Dart/Flutter, Python, Supabase/PostgreSQL, SQLite + sqlite-vec, ONNX Runtime, MCP. Claude, GPT, Gemini, Grok, DeepSeek APIs.
+TypeScript, Dart/Flutter, Python, Astro + Tailwind, Supabase/PostgreSQL, SQLite + sqlite-vec, ONNX Runtime, Cloudflare (Pages, Workers, R2), MCP. Claude, GPT, Gemini, Grok, DeepSeek APIs.
 
 ## Contact
 
