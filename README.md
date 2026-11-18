@@ -13,7 +13,7 @@
   <img src="preston-lighthouse.jpg" alt="Preston Winters with daughter at the Coquille River Lighthouse, Bandon Oregon" width="240" />
 </p>
 
-Solo builder in Bandon, Oregon. AI memory, consumer products, governance architecture, and client web work through [Winters Code](https://winterscode.com).
+Landscape contractor and solo software builder in Bandon, Oregon. I build software as [Winters Code](https://winterscode.com) (a DBA): AI memory, consumer products, governance architecture, and client web work.
 
 The full circle:
 
@@ -55,7 +55,7 @@ This isn't a side project. It's the reason the engine and the companion exist. M
 
 ### Chere'
 
-Field-service platform: unified inbox, scheduling, and billing in one Flutter app, with a dedicated build for [SeaBreeze](https://seabreeze.llc). Formerly Work-Flow.
+My contractor back-office app, in beta: unified inbox, scheduling, and billing in one Flutter app, with a dedicated build for [SeaBreeze](https://seabreeze.llc). Formerly Work-Flow.
 
 ---
 
@@ -81,9 +81,11 @@ Web studio on the Oregon coast. Astro and Tailwind on Cloudflare, built to a qua
 
 ## Products
 
-**[Baseline](https://baseline.marketing)** ([showcase](https://github.com/Preston2012/baseline-showcase)). Political intelligence platform. Tracks 100+ public figures across 4 AI providers. Consensus scoring detects bias no single model catches. 28 Flutter screens, 22 Supabase Edge Functions, 5,400+ analyzed statements.
+**[Baseline](https://baseline.marketing)** ([showcase](https://github.com/Preston2012/baseline-showcase)). Measures public speech. Free, no ads, no subscriptions, no purchases, and guests are welcome. Coming to Google Play and the App Store; it is not in either store yet. The backend is self-hosted. 139K lines of Dart, 32 screens, 32 server functions, 43 features.
 
-**StainSlayer.** AI stain removal guidance: photo plus fabric type in, step-by-step removal instructions out, in Standard, Eco, Emergency, and Fun modes. Published on Google Play and the App Store, retired in November 2026.
+**Gauge.** A free weather app: no ads, no account, official National Weather Service data for the United States. Test build only, not in either store. Open source in intent, funded by donations and grants; none confirmed yet.
+
+**StainSlayer.** AI stain removal guidance: photo plus fabric type in, step-by-step removal instructions out, in Standard, Eco, Emergency, and Fun modes. Ran on Google Play and the App Store for most of 2026 and was retired on November 7, 2026.
 
 ---
 
